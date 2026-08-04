@@ -23,7 +23,7 @@
             display: block;
         }
 
-        /* Subtle glowing vignette overlay to increase depth */
+        
         .vignette {
             position: absolute;
             top: 0;
